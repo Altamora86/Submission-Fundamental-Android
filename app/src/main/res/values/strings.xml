@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Submission Final</string>
+    <string name="splashscreen">splashscreen</string>
+    <string name="tv_data_result">Result : %d data</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Cari Nama</string>
+    <string name="tv_name_account">name account</string>
+    <string name="avatar">avatar</string>
+    <string name="tv_name">name</string>
+    <string name="tv_username">username</string>
+    <string name="repository">Repository</string>
+    <string name="tv_company">Company</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name2">Detail Submission Final</string>
+    <string name="publicrepos">%d </string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
+    <string name="followersString">%d </string>
+    <string name="followingString">%d </string>
+    <string name="setting">setting</string>
+    <string name="dark_mode">dark_mode</string>
+    <string name="icfavorite">icfavorite</string>
+    <string name="app_name3">Detail Setting</string>
+    <string name="app_name4">Detail Favorite</string>
+    <string name="daftar_favorit_kosong">Daftar favorit kosong, isilah sesuai keinginan :)</string>
+</resources>
